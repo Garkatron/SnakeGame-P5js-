@@ -1,0 +1,17 @@
+/* Establece el cuerpo del documento como un contenedor flex */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  background-color: #000000; /* Opcional, para un fondo más suave */
+}
+
+h1 {
+  text-align: center;
+}
+
+canvas {
+  border: 2px solid black; /* Opcional, para ver el borde del canvas */
+}

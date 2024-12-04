@@ -1,0 +1,17 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "Snake game with p5.js",
+  "main": "src/index.js",
+  "dependencies": {
+    "p5": "^1.11.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.0"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "MatiasGuliasCarrascal|@Garkatron",
+  "license": "MIT"
+}
